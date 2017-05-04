@@ -1,0 +1,14 @@
+@media(max-width:539px){
+	#whatsapp-bar{
+		text-align: center;
+	}
+	#whatsapp-bar .icon-whatsapp img{
+	    display: none;
+    }
+    #header .contact-header i{
+    	font-size: 30px!important;
+    }
+    #header .contact-header span{
+    	display: none;
+    }
+}

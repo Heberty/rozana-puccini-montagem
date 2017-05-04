@@ -1,0 +1,33 @@
+@media(max-width:767px){
+    #whatsapp-bar .icon-whatsapp img{
+	    max-width: 100px;
+	    top: -15px;
+    }
+    #header .logo {
+    	text-align: center;
+    }
+    #header .logo h1 {
+		margin-left: 0!important;
+    }
+    #products-index .itens {
+	    width: 100%!important;
+	    height: 130px!important;
+	}
+	#products-index .itens:hover {
+    	height: 300px!important;
+	}
+	#products-index .pi {
+	    display: block!important;
+	    margin-left: 30px;
+	    margin-right: 30px;
+	}
+	#products-index .pi a {
+	    top: 90px!important;
+	}
+	#products-index .itens .hr-itens {
+	    top: 120px!important;
+	}
+	.btn-mobile{
+	    margin-top: 50px;
+	}
+}
