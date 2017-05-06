@@ -6,9 +6,39 @@
 	    display: none;
     }
     #header .contact-header i{
-    	font-size: 30px!important;
+    	font-size: 30px;
     }
     #header .contact-header span{
     	display: none;
+    }
+    .navbar-toggle {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        background-color: #FFF;
+        z-index: 10;
+    }
+
+    #header .drop-nav {
+
+        position: fixed;
+        background-color: #FFF;
+        width: 100%;
+        left: 0px;
+        bottom: 0;
+        border-radius: 0;
+        box-shadow: 0 -1px 10px -4px rgba(0,0,0,.5);
+    }
+    #header .text-top {
+        text-align: center;
+    }
+    #header .text-top small {
+        margin-left: 0;
+    }
+    .bar-footer {
+        margin-bottom: 50px;
+    }
+    .navbar-default .navbar-form {
+        border-color: transparent;
     }
 }

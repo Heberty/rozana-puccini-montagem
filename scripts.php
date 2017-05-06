@@ -4,30 +4,4 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="js/jquery-1.9.1.js"></script>
 <script src="js/owl.carousel.min.js"></script>
-<script type="text/javascript">
-	// $(document).ready(function(){
-	//   $(".owl-carousel").owlCarousel();
-	//   	item: 1
-	// });	
-
-
-	$(document).ready(function() {
- 
-	  $("#owl-demo").owlCarousel({
-	 
-	      navigation : true, // показывать кнопки next и prev 
-	      slideSpeed : 300,
-	      paginationSpeed : 400,
-	      items : 1, 
-	      itemsDesktop : false,
-	      itemsDesktopSmall : false,
-	      itemsTablet: false,
-	      loop: true,
-	      itemsMobile : false,
-	      autoplay: true
-	 
-	  });
-	 
-	});
-</script>
-
+<script src="js/script.js"></script>
