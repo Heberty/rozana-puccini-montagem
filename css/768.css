@@ -27,9 +27,6 @@
 	#products-index .itens .hr-itens {
 	    top: 120px;
 	}
-	.btn-mobile{
-	    margin-top: 50px;
-	}
 	.nav-sidebar {
 	    border-bottom: 1px solid #ddd;
         border-right: 0 solid transparent!important;
@@ -85,6 +82,14 @@
 	.dropdown{
 		width: 110px;
 	}
+
+	#testimonials .box-testimonials {
+	    display: block;
+	}
+
+	#testimonials .photo-people {
+	    margin-bottom: 10px;
+	}
 }
 
 @media(min-width:768px){
@@ -94,5 +99,8 @@
 	}
 	.nav-sidebar {
 	    position: fixed;
+	}
+	#testimonials .photo-people {
+	    margin-right: 30px;
 	}
 }

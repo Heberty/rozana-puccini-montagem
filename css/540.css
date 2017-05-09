@@ -1,3 +1,11 @@
+@media(min-width:540px){
+
+    .button-fixed{
+        display: none;
+    }
+
+}
+
 @media(max-width:539px){
 	#whatsapp-bar{
 		text-align: center;

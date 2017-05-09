@@ -1,9 +1,9 @@
-@import 'style.css';
-@import '320.css';
-@import '540.css';
-@import '768.css';
-@import '992.css';
-@import 'sidebar.css';
+@import 'css/style.css';
+@import 'css/320.css';
+@import 'css/540.css';
+@import 'css/768.css';
+@import 'css/992.css';
+@import 'css/sidebar.css';
 
 
 

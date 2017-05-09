@@ -1,8 +1,10 @@
 @media(max-width: 319px){
 	#whatsapp-bar span {
 	    font-size: 6vw;
+	        padding: 0;
 	}
 	section h2 {
 	    font-size: 5.9vw;
+	        padding: 0;
 	}
 }
